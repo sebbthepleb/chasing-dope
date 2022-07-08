@@ -1,2 +1,3 @@
-# chasing-dope
-Chase that dope.
+# Chasing Dope
+
+- A game where you chase dope. It doesn't exist yet...
